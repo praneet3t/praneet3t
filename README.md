@@ -1,4 +1,6 @@
-## Hi there 👋
+# Deep learning at the core.  
+Interested in LLMs, computer vision, autonomous navigation, and time-series forecasting.  
+Curious about building models that learn and reason about the world.
 
 <!--
 **praneet3t/praneet3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
