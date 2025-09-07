@@ -1,4 +1,4 @@
-# Deep learning at the core.  
+Deep learning at the core.  
 Interested in LLMs, computer vision, autonomous navigation, and time-series forecasting.  
 Curious about building models that learn and reason about the world.
 
