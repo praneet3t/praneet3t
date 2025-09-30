@@ -1,5 +1,5 @@
 Deep learning at the core.  
-Interested in LLMs, computer vision, autonomous navigation, and time-series forecasting.  
+The fundamental challenges in deep learning are far from solved, and that keeps me motivated.
 Curious about building models that learn and reason about the world.
 
 <!--
