@@ -1,5 +1,6 @@
 Deep learning at the core.  
 The fundamental challenges in deep learning are far from solved, and that keeps me motivated.
+
 Curious about building models that learn and reason about the world.
 
 <!--
