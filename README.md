@@ -1,6 +1,3 @@
-Deep learning at the core.  
-The fundamental challenges in deep learning are far from solved, and that keeps me motivated.
-
 
 <!--
 **praneet3t/praneet3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
